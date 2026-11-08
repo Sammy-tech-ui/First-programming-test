@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Royal College - Samuel</title>
+<style>
+body{font-family:Arial;background:#f0f6ff;text-align:center;padding:20px;margin:0}
+.card{background:#fff;max-width:600px;margin:40px auto;padding:30px;border-radius:20px;box-shadow:0 5px 20px rgba(0,0,0,0.1);border-top:6px solid #0a3d8a}
+img{width:200px;height:200px;border-radius:50%;border:4px solid #d4af37}
+h1{color:#0a3d8a;margin-top:20px;font-size:28px}
+h2{color:#333;font-size:18px;font-weight:normal}
+.motto{background:#0a3d8a;color:#ffde59;padding:12px;border-radius:10px;font-weight:bold;font-style:italic;margin-top:20px}
+</style>
+</head>
+<body>
+<div class="card">
+<img src="logo.jpg" alt="Royal College Logo">
+<h1>Samuel</h1>
+<h2>Nursing Student<br>Royal College Of Nursing Sciences<br>100 Level - 2026/2027 Set</h2>
+<div class="motto">"TO RAISE THE BEST AMONG THE BEST"</div>
+</div>
+</body>
+</html>
